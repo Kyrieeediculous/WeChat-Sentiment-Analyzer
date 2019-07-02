@@ -9,9 +9,7 @@ This is a project from BJUT which is about analyzing sentimental data from an of
 ![visual distribution](pic.png)
 ## Demonstration
 ## Acknowledgements
-### Sentiment analyser
-    SentimentPolarityAnalysis from chaoming0625
-    (https://github.com/chaoming0625/SentimentPolarityAnalysis)
-### words divider
-    pkuseg-python from lancopku
-    (https://github.com/lancopku/pkuseg-python)
+### Sentiment analyser from `chaoming0625`
+https://github.com/chaoming0625/SentimentPolarityAnalysis
+### words divider from `lancopku`
+https://github.com/lancopku/pkuseg-python
