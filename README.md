@@ -8,6 +8,7 @@ This is a project from BJUT which is about analyzing sentimental data from an of
 * pic.png ----------visual distribution
 ![visual distribution](pic.png)
 ## Demonstration
+[video](http://www.aipai.com/c41/OTc-IyckICxpJGsp.html)
 ## Acknowledgements
 ### Sentiment analyser from `chaoming0625`
 https://github.com/chaoming0625/SentimentPolarityAnalysis
