@@ -11,8 +11,7 @@ This is a project from BJUT which is about analyzing sentimental data from an of
 ## Acknowledgements
 ### Sentiment analyser
     SentimentPolarityAnalysis from chaoming0625
-    https://github.com/chaoming0625/SentimentPolarityAnalysis
-<br>
+    [Link](https://github.com/chaoming0625/SentimentPolarityAnalysis)
 ### words divider
     pkuseg-python from lancopku
-    https://github.com/lancopku/pkuseg-python
+    [Link](https://github.com/lancopku/pkuseg-python)
