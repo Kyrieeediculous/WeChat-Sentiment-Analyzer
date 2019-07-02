@@ -7,5 +7,12 @@ This is a project from BJUT which is about analyzing sentimental data from an of
 * senti.scv --------- comments' sentiment score (total 17390)
 * pic.png ----------visual distribution
 ![visual distribution](pic.png)
-<br>
 ## Demonstration
+## Acknowledgements
+### Sentiment analyser
+    SentimentPolarityAnalysis from chaoming0625
+    https://github.com/chaoming0625/SentimentPolarityAnalysis
+<br>
+### words divider
+    pkuseg-python from lancopku
+    https://github.com/lancopku/pkuseg-python
