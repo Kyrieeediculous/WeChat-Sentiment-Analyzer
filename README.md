@@ -1,5 +1,5 @@
 # WeChat-Sentiment-Analyzer
-This is a project from BJUT which is about analyzing sentimental data from an official Account named BeiGongDaWeiShengHuo.It count every individual comments and evaluate their emotion level with a score standardized.<br>
+This is a project from BJUT which is about analyzing sentimental data from an official Account named BeiGongDaWeiShengHuo.It counts every individual comments and evaluate their emotion level with score standardized.<br>
 ## Result
 * data.scv --------- origin data (total 17390)
 * cuted.txt  ---------- seperate  sentences to words
